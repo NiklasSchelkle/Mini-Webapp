@@ -4,13 +4,6 @@ Dieses Streamlit-Web-Tool ermöglicht es Benutzern, ihr monatliches Netto-Einkom
 
 Die Anwendung kombiniert einen detaillierten Gehaltsrechner mit einem Budget-Tool für Fixkosten und bietet zusätzlich einen praktischen Affiliate-Link-Generator für Amazon-Produkte.
 
-## 🔗 Live-Anwendung
-
-Die Web-Anwendung ist unter der folgenden Adresse erreichbar:
-
-**[https://mini-webapp-niklassch.streamlit.app/](https://mini-webapp-niklassch.streamlit.app/)**
-
----
 
 ## ✨ Funktionen im Überblick
 
